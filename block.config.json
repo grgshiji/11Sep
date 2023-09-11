@@ -12,5 +12,10 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "dependencies": {
+    "30Aug_fun": {
+      "directory": "30Aug_fun"
+    }
+  }
 }
