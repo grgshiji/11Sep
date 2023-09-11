@@ -1,0 +1,16 @@
+{
+  "name": "11Sep",
+  "type": "package",
+  "blockId": "JTjkMLUtWc-CJrMakYHf1",
+  "source": {
+    "https": "https://github.com/grgshiji/11Sep.git",
+    "ssh": "git@github.com:grgshiji/11Sep.git",
+    "branch": "block_11Sep"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
