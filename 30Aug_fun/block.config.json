@@ -1,0 +1,20 @@
+{
+  "blockId": "zajFenPudN9ET1prVYaGq",
+  "name": "30Aug_fun",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/11Sep.git",
+    "ssh": "git@github.com:grgshiji/11Sep.git",
+    "branch": "block_30Aug_fun"
+  },
+  "parentBlockIDs": [
+    "JTjkMLUtWc-CJrMakYHf1"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
