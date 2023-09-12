@@ -15,7 +15,11 @@
   "repoType": "mono",
   "dependencies": {
     "30Aug_fun": {
-      "directory": "30Aug_fun"
+      "directory": "30Aug_fun",
+      "versionId": "pyoOLcP0uynOl13vEp0B0",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "wZVuwkwctvKTElmO7mxti"
 }
